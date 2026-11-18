@@ -1,0 +1,8 @@
+# Kept on your computer only, not published
+deploy.sh
+deploy.ps1
+DEPLOY.md
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
